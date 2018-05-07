@@ -1,6 +1,6 @@
 # 今年の漢字博士 API
 
-Dialogflowで使用しているFulfillmentのソースコードです。
+Dialogflowで使用しているFulfillmentのソースコードです。
 
 ## 「今年の漢字博士」について
 
